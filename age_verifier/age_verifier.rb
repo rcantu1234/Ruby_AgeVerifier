@@ -1,8 +1,11 @@
-function verifyAge(age){
-  if (age > 17)
-    console.log("You are an adult!");
+def verifyAge(age)
+  if age > 17
+    puts "You are an adult!"
   else
-    console.log("You are under 18!");
-}
+    puts "You are under 18!"
+  end
+end
 
-verifyAge(20);
+verifyAge(16)
+
+
