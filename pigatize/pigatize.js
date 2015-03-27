@@ -5,7 +5,7 @@ function pigatize(text) {
     pigatized_text = text + "way";
   }
   else {
-    pigatized_text = text + text  + "ay";
+    pigatized_text = text + text[0] + "ay";
   }
    return pigatized_text;
 }
