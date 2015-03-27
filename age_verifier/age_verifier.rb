@@ -3,8 +3,9 @@ def verifyAge(age)
     puts "You are an adult!"
   else
     puts "NOT ALLOWED!"
+  end
 end
 
-verifyAge(16)
+verifyAge(18)
 
 
