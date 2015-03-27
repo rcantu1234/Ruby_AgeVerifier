@@ -6,6 +6,6 @@ def verifyAge(age)
   end
 end
 
-verifyAge(18)
+verifyAge(17)
 
 

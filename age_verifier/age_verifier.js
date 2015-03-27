@@ -5,4 +5,4 @@ function verifyAge(age){
    console.log("NOT ALLOWED");
 }
 
-verifyAge(18);
+verifyAge(17);
